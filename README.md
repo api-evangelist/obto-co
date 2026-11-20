@@ -1,4 +1,4 @@
-# obto-co
+# OBTO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,98 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-obto-co is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://obto.co/
+OBTO provides a Glass Box AI Platform that enables developers to build, deploy, and verify full‑stack applications with transparent observability. By offering an open‑source democratic architecture for agentic AI, OBTO eliminates black‑box vendor lock‑in, providing exportable code, flat‑rate pricing, and integration with major LLMs like Claude, GPT, and Codex. The platform emphasizes radical observability, code export to GitHub, and a single price per application, empowering teams to own their intelligence and avoid subscription‑driven constraints.
+
+**Areas:** AI · Platform · OpenSource · Observability · DeveloperTools · Company
+
+## OBTO on APIs.io
+
+Everything profiled for OBTO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/obto-co/](https://apis.io/providers/obto-co/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OBTO Domain Security](https://apis.io/security/obto-co/obto-co-domain-security/)
+- [OBTO Vulnerability Disclosure](https://apis.io/security/obto-co/obto-co-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [OBTO Plans Pricing](https://apis.io/plans/obto-co/obto-co-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.obto.co/)
+- [Documentation](https://docs.obto.co/)
+- [Getting started](https://www.obto.co/site/ob/getting-started)
+- [Pricing](https://www.obto.co/site/ob/pricing)
+- [Sign up](https://www.obto.co/site/ob/signup)
+- [Support](https://www.obto.co/site/ob/contact)
+- [Blog](https://www.obto.co/site/ob/blog)
+- [Terms of service](https://www.obto.co/site/ob/terms)
+- [Privacy policy](https://www.obto.co/site/ob/privacy)
+- [Status](https://status.obto.co/)
+
+## API Evangelist rating
+
+**Kin Score 31.8** — thin · rubric 0.27.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 26.3 |
+| Developer ergonomics | 38.1 |
+| Access clarity | 73.2 |
+
+**Agent readiness 24.7** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | served (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | served (partial credit) |
+| Protected Resource Metadata | verified |
+| Dynamic Client Registration | yes |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 23.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/obto-co/](https://apis.io/providers/obto-co/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OBTO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/obto-co/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
